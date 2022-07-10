@@ -1,0 +1,24 @@
+--py script 1.0
+--Protect by tonk
+--You can change timer to false if dont want timer
+
+--Executer copy
+Timer = true 
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/anisnouacer1/My-Roblox-Scripts/main/Starving%20Artist%20%5BNew%5D.lua')))()
+
+--Send notification to user
+ 
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Tonkra Hub";
+    Text = "Made by tonkra"; -- what the text says (ofc)
+    Duration = 10;
+})
+wait(1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Copy art!";
+    Text = "Go near some art and you can copy!"; -- what the text says (ofc)
+    Duration = 20;
+})
+_G.HeadSize = 20
+_G.Disabled = true
