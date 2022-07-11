@@ -1,8 +1,0 @@
-getglobal game
-getfield -1 Players
-getfield -1 LocalPlayer
-getfield -1 Kick
-pushvalue -2
-pushstring Script updated! Please go to our discord and copy script! Here https://discord.gg/5rQH5HTzXn and type /+script 
-pcall 2 1 0
-emptystack

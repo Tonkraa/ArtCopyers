@@ -1,0 +1,10 @@
+-- Script version 1.1 
+
+-- Timer true if you don't want 
+
+Timer = false
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/anisnouacer1/My-Roblox-Scripts/main/Starving%20Artist%20%5BNew%5D.lua')))()
+
+-- Send notification
+
