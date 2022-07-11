@@ -3,5 +3,5 @@
 Timer = true 
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/anisnouacer1/My-Roblox-Scripts/main/Starving%20Artist%20%5BNew%5D.lua')))()
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Tonkraa/Core3/main/SendNotification')))()
 
