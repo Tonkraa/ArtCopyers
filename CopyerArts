@@ -1,17 +1,7 @@
 -- Script version 1.1 
 
--- Timer true if you don't want 
-
-Timer = false
+Timer = true 
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/anisnouacer1/My-Roblox-Scripts/main/Starving%20Artist%20%5BNew%5D.lua')))()
 
--- Send notification
 
-game.StarterGui:SetCore("SendNotification", {
-    Title = "KraHub";
-    Text = "Made by tonkra"; -- what the text says (ofc)
-    Duration = 5;
-})
-_G.HeadSize = 20
-_G.Disabled = true
